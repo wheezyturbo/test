@@ -1,5 +1,7 @@
 1. install xamp with mysql or mysql server
 
+        https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.0/xampp-windows-x64-8.2.0-0-VS16-installer.exe
+
 2. start the server
 
 3. do the following mysql operations
